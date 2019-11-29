@@ -97,3 +97,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
