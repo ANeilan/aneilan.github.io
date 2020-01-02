@@ -1,4 +1,3 @@
-permalink: /eevee
 this is a Mirror.
 
 A message from Eevee. @ComradeEvee
