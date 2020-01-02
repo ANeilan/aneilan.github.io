@@ -1,5 +1,3 @@
-#layout: page
-#title: "comradeeevee's message"
 permalink: /eevee
 this is a Mirror.
 
