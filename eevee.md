@@ -1,6 +1,6 @@
-layout: page
-title: "comradeeevee's message"
-date: 2020-01-02 18:45 -0000
+#layout: page
+#title: "comradeeevee's message"
+permalink: /eevee
 this is a Mirror.
 
 A message from Eevee. @ComradeEvee
