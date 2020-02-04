@@ -8,3 +8,6 @@ this blog is going to mostly be my ramblings and what i decided on using to sort
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wondering where to make a blog that's basically just "crap I found on the internet", detailing the phishing stuff and hosting information /  stuff that may not be able to fit in one tweet
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote>
+
+<a href="/crap-i-found-2020-01-24">crap i found: 2020/01/24</a><br>
+<a href="/eevee">@comradeeevee's message</a>
