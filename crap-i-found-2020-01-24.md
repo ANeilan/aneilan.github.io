@@ -1,4 +1,4 @@
-Hey folks, i'm finally getting around to posting 'crap i found on the internet'.<br>
+Hey folks, i'm finally getting around to posting 'Crap I Found On The Internet'.<br>
 This will be just a list of phish pages and whatnot i've found trawling through certstream data.<br>
 I'll try to do these on a regular basis ... i hope.
 

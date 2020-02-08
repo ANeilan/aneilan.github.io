@@ -1,5 +1,5 @@
 <title>Crap i found on the internet (2020/02/06)</title>
-Well folks, this is my 2nd volume of "Crap i found on the internet". Today, i've got a mix of apple phishes and freenom domains (which i've scanned for kits)
+Well folks, this is my 2nd volume of "Crap I Found On The Internet". Today, i've got a mix of Apple phishes and freenom domains (which i've scanned for kits)
 <br/><br/>
 
 |**Type**                 |**URL**                                                              |**IP Address**   |**Threat Actor Email**        |
