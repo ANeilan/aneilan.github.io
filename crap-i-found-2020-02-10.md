@@ -1,8 +1,8 @@
 <h1>Crap I Found On The Internet: (2020/02/10)</h1>
 
 
-Type            |URL                                         |IP               |
-----------------|--------------------------------------------|-----------------|
+|Type           |URL                                         |IP               |
+|---------------|--------------------------------------------|-----------------|
 |`URL Shortener`|`icare-appleid.com/admin/login.php`         |`31.31.198.107`  |
 |`Phoenix`      |`icloud.com.verify-login.online/admin/`     |`37.140.192.254` |
 |`iTech Updated`|`apple.com-lost.info/admin/login.php`       |`37.140.192.254` |
