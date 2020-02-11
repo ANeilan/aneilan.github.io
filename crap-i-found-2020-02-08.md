@@ -1,7 +1,7 @@
-"Crap I Found On The Internet", volume 3 (2020/02/08):
-<br>
+<h1>"Crap I Found On The Internet", volume 3 (2020/02/08):</h1>
 
-|**Type**           |**URL**                                                                           |**IP Address**   |**Threat Actor Email**                |
+
+|Type               |URL                                                                               |IP Address       |Threat Actor Email                    |
 |-------------------|----------------------------------------------------------------------------------|-----------------|--------------------------------------|
 |`Phoenix`          |`icloud.com.acc-en.us/admin/`                                                     |`37.140.192.33`  |`imanunlockingservices@protonmail.com`|
 |`[SBH]CyberCrime`  |`authorized-activity-account-appleid.giize.com/panel`                             |`162.241.67.219` |`N/A`                                 |
@@ -28,3 +28,5 @@
 |`Phoenix`          |`icloud.com.applesecurity.online/admin/`                                          |`5.100.152.162`  |`N/A`                                 |
 |`SMS Spammer`      |`appleid-suporte.com/user/login?_next=/`                                          |`35.173.69.207`  |`diegofreitasdocarmo2018@gmail.com`   |
 |`Phoenix`          |`icloud.com-signin.id/admin/`                                                     |`192.111.147.51` |`N/A`                                 |
+
+<a href="/">Return to index</a>
