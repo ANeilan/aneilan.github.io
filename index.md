@@ -10,8 +10,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote>
 
 <h2>Posts:</h2>
-<a href="/crap-i-found-2020-02-27">Crap I Found On The Internet: 2020/02/27</a><br/>>
-<a href="/crap-i-found-2020-02-10">Crap I Found On The Internet: 2020/02/10</a><br/>>
+<a href="/crap-i-found-2020-02-27">Crap I Found On The Internet: 2020/02/27</a><br/>
+<a href="/crap-i-found-2020-02-10">Crap I Found On The Internet: 2020/02/10</a><br/>
 <a href="/crap-i-found-2020-02-08">Crap I Found On The Internet: 2020/02/08</a><br/>
 <a href="/crap-i-found-2020-02-06">Crap I Found On The Internet: 2020/02/06</a><br/>
 <a href="/crap-i-found-2020-01-24">Crap I Found On The Internet: 2020/01/24</a><br/>
