@@ -10,5 +10,5 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote>
 
 <h2>Posts:</h2>
-<a href="/archive/">Archived Posts</a></br>
+<a href="/archive/">Archived Posts</a><br/>
 <a href="/eevee">@comradeeevee's message</a>
