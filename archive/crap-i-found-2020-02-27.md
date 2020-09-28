@@ -16,5 +16,5 @@
 |Yahoo Phish    |`merletwd.gq/Yahoo/yahoo%20(4)%20(1).zip`            |`198.23.213.235` |`mybizarena@yahoo.com`                     |
 |Yahoo Phish    |`merletwd.gq/Yahoo/yahoo%20(4)%20(1).zip`            |`198.23.213.235` |`myteam5000k@gmail.com`                    |
 
-<a href="/crap-i-found-2020-02-27-sha256sums.txt">SHA256 Hashes</a><br>
+<a href="/archive/crap-i-found-2020-02-27-sha256sums.txt">SHA256 Hashes</a><br>
 <a href="/">Return to index</a>
