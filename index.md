@@ -10,5 +10,6 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote>
 
 <h2>Posts:</h2>
+<a href="/2020-09-28-crap-i-found">Crap I Found On The Internet (2020/09/28)</a>
 <a href="/archive/">Archived Posts</a><br/>
 <a href="/eevee">@comradeeevee's message</a>
