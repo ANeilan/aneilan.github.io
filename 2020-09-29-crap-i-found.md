@@ -278,3 +278,6 @@
 <br/>
 
 ### With that, i'll see you again in the next installment...probably later tonight since i'm pushing this out at roughly 1:00 am eastern time. Stay safe out there.
+
+
+[Return to index](/)
