@@ -7,9 +7,12 @@ You can typically find me on twitter at [@aneilan](https://twitter.com/aneilan),
 This blog is going to mostly be my ramblings and what i decided on using to sort this out:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wondering where to make a blog that's basically just "crap I found on the internet", detailing the phishing stuff and hosting information /  stuff that may not be able to fit in one tweet
-</p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote>
+</p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote><br/>
 
 ## Posts
+
+[Crap I Found On The Internet (2020/09/30)](/2020-09-30-crap-i-found)
+
 [Crap I Found On The Internet (2020/09/29)](/2020-09-29-crap-i-found)
 
 [Crap I Found On The Internet (2020/09/28)](/2020-09-28-crap-i-found)
