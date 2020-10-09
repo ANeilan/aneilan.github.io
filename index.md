@@ -11,6 +11,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 ## Posts
 
+[Crap I Found On The Internet (2020/10/08)](/2020-10-08-crap-i-found)
+
 [Crap I Found On The Internet (2020/09/30)](/2020-09-30-crap-i-found)
 
 [Crap I Found On The Internet (2020/09/29)](/2020-09-29-crap-i-found)
