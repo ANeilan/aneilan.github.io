@@ -23,6 +23,7 @@
 | hxxp://slldigital[.]ga/banco[.]bradesco[.]zip                                                  | 74[.]63[.]242[.]18   | warning@superdominios[.]org                                 | avisaoveio2020@gmail[.]com                  |
 | hxxp://slldigital[.]recantovidaboa[.]com/banco[.]bradesco[.]zip                                | 74[.]63[.]242[.]18   | lucianunes121@hotmail[.]com<br/>warning@superdominios[.]org | avisaoveio2020@gmail[.]com                  |
 | hxxp://user-7806784562353586781[.]tk/LOOGIN[.]zip                                              | 101[.]50[.]1[.]53    | soa@freenom[.]com                                           | writes to file 'anjingkontolnatarang[.]txt' |
+
 <br/>
 
 ## Sketchy URLs
