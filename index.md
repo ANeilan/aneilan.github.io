@@ -9,7 +9,12 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wondering where to make a blog that's basically just "crap I found on the internet", detailing the phishing stuff and hosting information /  stuff that may not be able to fit in one tweet
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote><br/>
 
+[I also have a ko-fi](https://ko-fi.com/alanneilan) if you care to check it out.
+
 ## Posts
+
+[Mini Update: Apple Phish Panels (2020/10/11)](/2020-10-11-mini-update)
+
 [Crap I Found On The Internet (2020/10/10)](/2020-10-10-crap-i-found)
 
 [Crap I Found On The Internet (2020/10/08)](/2020-10-08-crap-i-found)
