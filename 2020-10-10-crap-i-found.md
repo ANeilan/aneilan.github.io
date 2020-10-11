@@ -3,6 +3,7 @@
 ### Hey folks, here's another blog post, this time i'm going to break it up into a table with phishing kits i came across and the assorted information for those (URL,IP,Whois,Exfil) as well as a separate table for other assorted sketchy domains i came across. What i noticed is that there were a whopping 181 domains/URLs with the same email address under the Start Of Authority record.
 
 ## Phishing Kits
+
 | URL                                                                                            | IP                   | Whois/SOA                                                   | Exfil                                       |
 | ---------------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------- | ------------------------------------------- |
 | hxxp://claimevent[.]garena34[.]my[.]id/FREE_DM_MLBB-kinumen[.]zip                              | 5[.]189[.]138[.]99   | root@log[.]crownesia[.]net                                  | phising050503@gmail[.]com                   |
@@ -25,6 +26,7 @@
 <br/>
 
 ## Sketchy URLs
+
 | URL                                                               | IP                                                                                          | Whois/SOA                              |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------- |
 | hxxp://airdrop[.]event[.]pubgmbl[.]my-gamers-comz[.]ml            | 62[.]171[.]171[.]220                                                                        | serfers201@gmail[.]com                 |
