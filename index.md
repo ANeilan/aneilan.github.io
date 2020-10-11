@@ -10,6 +10,7 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 </p>&mdash; Alan Neilan (@aneilan) <a href="https://twitter.com/ANeilan/status/1188310492101709825?s=20">Oct 27, 2019</a></blockquote><br/>
 
 ## Posts
+[Crap I Found On The Internet (2020/10/10)](/2020-10-10-crap-i-found)
 
 [Crap I Found On The Internet (2020/10/08)](/2020-10-08-crap-i-found)
 
