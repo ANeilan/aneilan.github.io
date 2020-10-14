@@ -13,6 +13,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 ## Posts
 
+[Crap I Found On The Internet (2020/10/13)](/2020-10-13-crap-i-found)
+
 [Mini Update: Apple Phish Panels (2020/10/11)](/2020-10-11-mini-update) (UPDATED 2020/10/11 10:58PM)
 
 [Crap I Found On The Internet (2020/10/10)](/2020-10-10-crap-i-found)
