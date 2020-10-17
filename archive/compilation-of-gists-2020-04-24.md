@@ -118,4 +118,4 @@ This is essentially a compilation of those gists combined into one large table. 
 | `http://xenlene.xyz/txt/txt.zip`                                                       | `xenlene.xyz`                                 | `185.148.147.240`               | `grace2020grace@yandex.com,mexyinc@zoho.com`                                                                             |
 | `http://xlsinvoices.sytes.net/note/att.net.zip`                                        | `xlsinvoices.sytes.net`                       | `18.188.65.80`                  | `chibamobilestore@hotmail.com,lynchbim@gmail.com,re5ultpage@yandex.com`                                                  |
 
-<a href="/">Return to index</a>
+[Return to index](/archive)

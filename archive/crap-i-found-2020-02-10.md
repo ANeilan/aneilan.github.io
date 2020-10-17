@@ -15,4 +15,4 @@
 |`OFF iT`       |`icloud.com.1map.today/admin/`              |`199.188.200.231`|
 |`Phoenix`      |`apple.com-idview.info/admin/`              |`37.140.192.154` |
 
-<a href="/">Return to index</a>
+[Return to index](/archive)

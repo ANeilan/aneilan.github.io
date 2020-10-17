@@ -11,4 +11,4 @@ I'll try to do these on a regular basis ... i hope.
 |`iBenchrif`| `appleid.com-find.art/admin/login.php`                              |`93.157.63.221`  |`n/a`                       |
 |`KH-Panel` | `www.appleid-maildeliveryoptionvalue.gleeze.com/admin/login.php`    |`64.225.118.214` |`n/a`                       |
 
-<a href="/">Return to index</a>
+[Return to index](/archive)
