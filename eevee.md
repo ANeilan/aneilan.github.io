@@ -1,6 +1,5 @@
 this is a Mirror.
 
-```
 A message from Eevee. @ComradeEvee
 
 I am Darksim905's ex. And apparently I have to do this.
@@ -13,4 +12,3 @@ He kept me from his friends by talking shit about them. He inserted himself into
 At derby, he saw me off at the airport, then sat down at a dinner with [redacted] and a few mutual friends. He told me he was done with [redacted], yet he sat down at dinner...uninvited. He talked shit about [redacted] whom he told me he was done with, to the friends. It was uncomfortable for everyone. Darksim is a monster.
 He attempted to socially isolate me. He attempted to groom me. He hurts people. He stalks and harasses women and femmes in tech. He's a fucking monster. I hate I have to say this, but here we are.
 He locked in an attempt to rebrand. Nothing more. Life ain't an anime, and not everyone gets a redemption arc. He is someone undeserving of a redemption arc. He's hurt so many people.
-```
