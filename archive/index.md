@@ -1,12 +1,19 @@
-<h2>Archived Posts</h2>
+# Archived Posts
 
-<a href="/archive/compilation-of-gists-2020-04-24">Compilation of "stuff i found" gists that i posted to github</a><br/>
-<a href="/archive/crap-i-found-2020-03-30">Crap I Found On The Internet: 2020/03/30</a><br/>
-<a href="/archive/crap-i-found-2020-03-11">Crap I Found On The Internet: 2020/03/11</a><br/>
-<a href="/archive/crap-i-found-2020-02-27">Crap I Found On The Internet: 2020/02/27</a><br/>
-<a href="/archive/crap-i-found-2020-02-10">Crap I Found On The Internet: 2020/02/10</a><br/>
-<a href="/archive/crap-i-found-2020-02-08">Crap I Found On The Internet: 2020/02/08</a><br/>
-<a href="/archive/crap-i-found-2020-02-06">Crap I Found On The Internet: 2020/02/06</a><br/>
-<a href="/archive/crap-i-found-2020-01-24">Crap I Found On The Internet: 2020/01/24</a><br/>
+[Compilation of "stuff i found" gists that i posted to github](/archive/compilation-of-gists-2020-04-24)
 
-<a href="/">Return to index</a>
+[Crap I Found On The Internet: 2020/03/30](/archive/crap-i-found-2020-03-30)
+
+[Crap I Found On The Internet: 2020/03/11](/archive/crap-i-found-2020-03-11)
+
+[Crap I Found On The Internet: 2020/02/27](/archive/crap-i-found-2020-02-27)
+
+[Crap I Found On The Internet: 2020/02/10](/archive/crap-i-found-2020-02-10)
+
+[Crap I Found On The Internet: 2020/02/08](/archive/crap-i-found-2020-02-08)
+
+[Crap I Found On The Internet: 2020/02/06](/archive/crap-i-found-2020-02-06)
+
+[Crap I Found On The Internet: 2020/01/24](/archive/crap-i-found-2020-01-24)
+
+[Return to index](/)
