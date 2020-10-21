@@ -1,6 +1,6 @@
 # More Crap I Found On The Internet (2020/10/19)
 
-### Hey folks, here's some more crap i came across after my post a few hours ago, it's pretty much all apple-targeted phishing pages. Some 16Shop, a few iPanel Pro panels, iPanel (regular), iTech Ultimate, some weird one called "ZIKOOO" which looks like a rip of Phoenix Panel, Phoenix Panels (both english and russian (as evidenced by the HTTP banner "Пример входа в PHP")), as well as an AppleKit panel. It's kinda late on the east coast, so here ya go.
+Hey folks, here's some more crap i came across after my post a few hours ago, it's pretty much all apple-targeted phishing pages. Some 16Shop, a few iPanel Pro panels, iPanel (regular), iTech Ultimate, some weird one called "ZIKOOO" which looks like a rip of Phoenix Panel, Phoenix Panels (both english and russian (as evidenced by the HTTP banner "Пример входа в PHP")), as well as an AppleKit panel. It's kinda late on the east coast, so here ya go.
 
 ## Phishing Admin Panels
 
