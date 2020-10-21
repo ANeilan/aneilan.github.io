@@ -1,14 +1,14 @@
 # Crap I Found On The Internet (2020/09/30)
 
-### Hey folks, here's another installment of "Crap I Found On The Internet".
+Hey folks, here's another installment of "Crap I Found On The Internet".
 
-### This time, i grabbed from yesterdays (or how i normally do with the previous days certstream data), as well as combing through today's certstream data as well, which is why there's so many domains.
+This time, i grabbed from yesterdays (or how i normally do with the previous days certstream data), as well as combing through today's certstream data as well, which is why there's so many domains.
 
-### Like yesterday, it's a mix of PUBG, Garena, Codashop (sort of goes with the last one), and sketchy WhatsApp group invites.<br/>
+Like yesterday, it's a mix of PUBG, Garena, Codashop (sort of goes with the last one), and sketchy WhatsApp group invites.<br/>
 
 ###### also there may be some duplicates from yesterdays post.
 
-### I think maybe friday i'll make a large one with sketchy apple phishing domains.
+I think maybe friday i'll make a large one with sketchy apple phishing domains.
 
 | URL                                                                          | IP                    | Whois/SOA Email                                        |
 | ---------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------ |
@@ -657,8 +657,8 @@
 | xnxx-viral7[.]ml                                                             | 51[.]79[.]160[.]167   | arjunagaming0@gmail[.]com                              |
 | zacem5[.]cf                                                                  | 207[.]244[.]227[.]60  | root@cloud[.]foxnesia[.]net                            |
 
-<br/>
 
-### Hard to believe it's already the end of september, see you next time.
+
+Hard to believe it's already the end of september, see you next time.
 
 [Return to index](/)

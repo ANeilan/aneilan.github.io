@@ -1,8 +1,8 @@
 # Crap I Found On The Internet (2020/09/29)
 
-### Hey folks, this is a really late late edition of "Crap I Found On The Internet", didn't even notice the clock.
+Hey folks, this is a really late late edition of "Crap I Found On The Internet", didn't even notice the clock.
 
-### Here's some more freenom domains, a mix of PUBG, Garena, Codashop (sort of goes with the last one), and sketchy WhatsApp group invites.<br/>
+Here's some more freenom domains, a mix of PUBG, Garena, Codashop (sort of goes with the last one), and sketchy WhatsApp group invites.
 
 | URL                                                              | IP                   | Whois/SOA Email                                         |
 | ---------------------------------------------------------------- | -------------------- | ------------------------------------------------------- |
@@ -259,9 +259,9 @@
 
 <br/>
 
-### In the table below, is a breakdown of the IPs by hosting provider (or rather, the company that shows up in the description when you run a whois query):
+In the table below, is a breakdown of the IPs by hosting provider (or rather, the company that shows up in the description when you run a whois query):
 
-### You may also notice that roughly 45% of these IPs resolve to Contabo Gmbh, with 20% resolving to the Lithuanian provider, Interneto Vizija, and the remaining few IPs each resolving to a different provider.<br/><br/>
+You may also notice that roughly 45% of these IPs resolve to Contabo Gmbh, with 20% resolving to the Lithuanian provider, Interneto Vizija, and the remaining few IPs each resolving to a different provider.
 
 | IP                                                                                                                                                                                                                    | Provider                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -277,6 +277,6 @@
 
 <br/>
 
-### With that, i'll see you again in the next installment...probably later tonight since i'm pushing this out at roughly 1:00 am eastern time. Stay safe out there.
+With that, i'll see you again in the next installment...probably later tonight since i'm pushing this out at roughly 1:00 am eastern time. Stay safe out there.
 
 [Return to index](/)

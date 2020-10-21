@@ -1,10 +1,10 @@
 # Crap I Found On The Internet: (2020/10/17)
 
-### Hey folks, ran out of time yesterday, so i'm posting this today. Went through some freenom domains, as well as no-ip domains combing for some phishing kits. Might update this later with more domains / a separate table for those as i find them.
+Hey folks, ran out of time yesterday, so i'm posting this today. Went through some freenom domains, as well as no-ip domains combing for some phishing kits. Might update this later with more domains / a separate table for those as i find them.
 
 ## Phishing Kits
 
-#### UPDATED (2020/10/18): uploaded samples to [malshare.com](https://malshare.com)
+UPDATED (2020/10/18): uploaded samples to [malshare.com](https://malshare.com)
 
 | URL                                                                                                                                                           | IP                    | Exfil Email                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

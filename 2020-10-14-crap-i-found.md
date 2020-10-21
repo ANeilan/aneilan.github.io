@@ -1,6 +1,6 @@
 # Crap I Found On The Internet (2020/10/14)
 
-### Hey folks, here's a brief table of kits i came across today (10/14). I'll eventually get around to uploading them to malshare.
+Hey folks, here's a brief table of kits i came across today (10/14). I'll eventually get around to uploading them to malshare.
 
 ## Phishing Kits
 #### UPDATED (2020/10/19): uploaded samples to [malshare.com](https://malshare.com)

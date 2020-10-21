@@ -1,6 +1,6 @@
 # Crap I Found On The Internet (2020/10/10)
 
-### Hey folks, here's another blog post, this time i'm going to break it up into a table with phishing kits i came across and the assorted information for those (URL,IP,Whois,Exfil) as well as a separate table for other assorted sketchy domains i came across. What i noticed is that there were a whopping 181 domains/URLs with the same email address under the Start Of Authority record.
+Hey folks, here's another blog post, this time i'm going to break it up into a table with phishing kits i came across and the assorted information for those (URL,IP,Whois,Exfil) as well as a separate table for other assorted sketchy domains i came across. What i noticed is that there were a whopping 181 domains/URLs with the same email address under the Start Of Authority record.
 
 ## Phishing Kits
 
@@ -488,8 +488,7 @@
 | yangmaugabungbokep[.]xfreefire[.]my[.]id                   | 207[.]244[.]229[.]65                                                                        | dns@cloudflare[.]com                   |
 | youtuberff[.]join-grup18[.]my[.]id                         | 167[.]86[.]114[.]103                                                                        | fauziponcol21@gmail[.]com              |
 
-<br/>
 
-### Well folks, i'll see you next time. Hope to make this a regular thing, if i can get into a regular schedule or routine.
+Well folks, i'll see you next time. Hope to make this a regular thing, if i can get into a regular schedule or routine.
 
 [Return to index](/)

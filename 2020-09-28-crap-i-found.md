@@ -1,10 +1,9 @@
 # Crap I Found On The Internet (2020/09/28)
 
-### Hey folks, I know it's been a while since i've posted one of these. I've been really busy working from home (which is nice, considering I only have to roll out of bed in the morning and walk over to my kitchen table) and trying to get an _actual_ security job. However, i figured i may as well start blogging again, and what better way, than to give you folks another installment of "Crap I Found On The Internet".
+Hey folks, I know it's been a while since i've posted one of these. I've been really busy working from home (which is nice, considering I only have to roll out of bed in the morning and walk over to my kitchen table) and trying to get an _actual_ security job. However, i figured i may as well start blogging again, and what better way, than to give you folks another installment of "Crap I Found On The Internet".
 
-### Below is a table of IOCs obtained by taking certificate data from certstream (mostly domains), throwing it into maltego to get the relevant hosting information (whois/soa email, IP, etc.) and organizing it into a table.
+Below is a table of IOCs obtained by taking certificate data from certstream (mostly domains), throwing it into maltego to get the relevant hosting information (whois/soa email, IP, etc.) and organizing it into a table.
 
-<br/>
 
 | URL                                                            | IP                    | Whois/SOA Email                                      |
 | -------------------------------------------------------------- | --------------------- | ---------------------------------------------------- |
@@ -265,6 +264,7 @@
 | www[.]ucfreepb[.]cf                                            | 142[.]250[.]73[.]211  | soa@freenom[.]com                                    |
 | www[.]webkaliangg[.]invite-viral7[.]tk                         | 51[.]79[.]160[.]167   | arjunagaming0@gmail[.]com                            |
 
-### Well, that's all folks. I'm going to work on getting some sort of regular schedule going to post these. Not quite sure what that's going to be yet, but we'll cross that bridge when we get there. See you on the internet.
+
+Well, that's all folks. I'm going to work on getting some sort of regular schedule going to post these. Not quite sure what that's going to be yet, but we'll cross that bridge when we get there. See you on the internet.
 
 [Return to index](/)

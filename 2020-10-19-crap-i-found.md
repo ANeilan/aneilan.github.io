@@ -1,6 +1,6 @@
 # Crap I Found On The Internet: (2020/10/19)
 
-### Hey folks, here's another list of phishing kits i came across while combing through certstream data. Uploaded these samples to [malshare.com](https://malshare.com). Will eventually get in some sort of routine as far as posts are concerned.
+Hey folks, here's another list of phishing kits i came across while combing through certstream data. Uploaded these samples to [malshare.com](https://malshare.com). Will eventually get in some sort of routine as far as posts are concerned.
 
 ## Phishing Kits
 

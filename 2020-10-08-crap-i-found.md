@@ -1,10 +1,10 @@
 # Crap I Found On The Internet (2020/10/08)
 
-### Hey folks, i know it's been about a week or so since my last blog post. been pretty busy with work and just life in general. Here's another list of sketchy sites that i came across combing through certstream data. Eventually i'll probably add a "first appeared on certstream" date or something to note when it first came through.
+Hey folks, i know it's been about a week or so since my last blog post. been pretty busy with work and just life in general. Here's another list of sketchy sites that i came across combing through certstream data. Eventually i'll probably add a "first appeared on certstream" date or something to note when it first came through.
 
-### I decided to comb through the typical freenom domains `(ml,tk,cf,gq,ga)` as well as checking the `my.id` ~~TLD~~ (scratch that, it's a second level domain, not a top level domain). I really did intend on getting that post about Apple phish pages up, I'll get to it eventually (maybe even tomorrow, but no promises).
+I decided to comb through the typical freenom domains `(ml,tk,cf,gq,ga)` as well as checking the `my.id` ~~TLD~~ (scratch that, it's a second level domain, not a top level domain). I really did intend on getting that post about Apple phish pages up, I'll get to it eventually (maybe even tomorrow, but no promises).
 
-### Anyway, peep the list below to feed it into whatever system you use for filtering or whatever one would choose to do with a list of sketchy domains and ip's (though a few domains/urls seemed to resolve to multiple IPs when put put through maltego (maybe some cloudflare/other hosting provider config or something)).
+Anyway, peep the list below to feed it into whatever system you use for filtering or whatever one would choose to do with a list of sketchy domains and ip's (though a few domains/urls seemed to resolve to multiple IPs when put put through maltego (maybe some cloudflare/other hosting provider config or something)).
 
 | URL                                                                        | IP                                                                                                  | SOA/Whois Email                       |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------- |

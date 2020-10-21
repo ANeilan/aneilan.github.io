@@ -1,8 +1,8 @@
 # Mini Update: Apple Phish Panels
 
-### Hey folks, i'm rested (somewhat) from my overnight shift, and so i figured i'd push out a little mini-update w/ some apple phish panels i came across when combing through certstream data. I'll probably end up updating it as i find more of them.
+Hey folks, i'm rested (somewhat) from my overnight shift, and so i figured i'd push out a little mini-update w/ some apple phish panels i came across when combing through certstream data. I'll probably end up updating it as i find more of them.
 
-### UPDATE 2020/10/11 10:58PM: Added some more domains i found, mostly iPanel Pro, a few iTech Ultimate panels and a few broken panels (i.e. they would print some weird php error)
+UPDATE 2020/10/11 10:58PM: Added some more domains i found, mostly iPanel Pro, a few iTech Ultimate panels and a few broken panels (i.e. they would print some weird php error)
 
 | URL                                                               | IP                    | Whois/SOA Email                                       |
 | ----------------------------------------------------------------- | --------------------- | ----------------------------------------------------- |
