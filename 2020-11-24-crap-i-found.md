@@ -58,6 +58,8 @@ There was one kit (across 3 domains) that for whatever reason was in some weird 
 | yfghh[.]gotdns[.]ch/kkk/upload[.]zip                                                         | 139[.]59[.]27[.]95    | rwangaudioquest[.]com@gmail[.]com                           |
 | ytrioi-71[.]gq/update%20page[.]zip                                                           | 51[.]103[.]136[.]215  | yung[.]nelly123@yandex[.]ru                                 |
 
+`*: url was no longer resolving at time of publication`
+
 `[1]: links to https://www.facebook.com/IdhamDotID`
 
 Welp, that's it, folks. Have a good and safe thanksgiving if you're celebrating it this year. Stay safe, nonetheless.
