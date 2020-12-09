@@ -13,6 +13,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 ## Posts
 
+[Crap I Found On The Internet (2020/12/08)](/2020-12-08-crap-i-found)
+
 [That time i gave a talk at a major security conference: BSides CT 2020 (2020/11/24)](/2020-11-24-gave-a-talk-at-bsidesct2020)
 
 [Crap I Found On The Internet (2020/11/24)](/2020-11-24-crap-i-found)
