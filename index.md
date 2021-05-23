@@ -1,3 +1,4 @@
+<title>{{ site.title }}</title>
 Hey, I'm Alan Neilan
 
 I'm a security researcher when i'm not at my day job, hoping to eventually make it into a security role at some point.
