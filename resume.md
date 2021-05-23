@@ -1,5 +1,5 @@
 # Alan Neilan
-## Security Researcher | 508-431-7260 | Blog: aneilan.github.io
+## Security Researcher<br>508-431-7260<br>Blog: aneilan.github.io
 ---
 ### Experience:
 #### Helpdesk Analyst - Steward Health Care Systems<br>July 2018 - Present<br>
