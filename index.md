@@ -14,6 +14,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 ## Posts
 
+[My time at ~~band~~ summer camp (2022/09/14)](/2022-09-14-my-time-at-summer-camp.md)
+
 [It's been a while (2022/03/18)](/2022-03-18-been-a-while)
 
 [Crap I Found On The Internet (2021/03/15)](/2021-03-15-crap-i-found)
