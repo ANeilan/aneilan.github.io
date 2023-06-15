@@ -23,4 +23,4 @@
 | HijaIyh_App             | verify-appleidaccnt[.]serveirc[.]com/hipanel   | 3[.]80[.]4[.]49      | N/A                           |
 | Phoenix                 | icloud[.]com-dev[.]in/admin/                   | 178[.]159[.]36[.]140 | N/A                           |
 
-[Return to index](/archive)
+[Return to index](/)

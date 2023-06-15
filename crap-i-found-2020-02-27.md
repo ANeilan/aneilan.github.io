@@ -16,6 +16,6 @@
 | Yahoo Phish     | merletwd[.]gq/Yahoo/yahoo%20(4)%20(1)[.]zip                  | 198[.]23[.]213[.]235  | mybizarena@yahoo[.]com                        |
 | Yahoo Phish     | merletwd[.]gq/Yahoo/yahoo%20(4)%20(1)[.]zip                  | 198[.]23[.]213[.]235  | myteam5000k@gmail[.]com                       |
 
-[SHA256 Hashes](/archive/crap-i-found-2020-02-27-sha256sums.txt)
+[SHA256 Hashes](//crap-i-found-2020-02-27-sha256sums.txt)
 
-[Return to index](/archive)
+[Return to index](/)

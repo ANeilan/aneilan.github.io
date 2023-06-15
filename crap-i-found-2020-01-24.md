@@ -13,4 +13,4 @@
 | iBenchrif | appleid[.]com-find[.]art/admin/login[.]php                                   | 93[.]157[.]63[.]221   | n/a                            |
 | KH-Panel  | www[.]appleid-maildeliveryoptionvalue[.]gleeze[.]com/admin/login[.]php       | 64[.]225[.]118[.]214  | n/a                            |
 
-[Return to index](/archive)
+[Return to index](/)

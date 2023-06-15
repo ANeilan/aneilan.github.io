@@ -118,4 +118,4 @@
 | xlsinvoices[.]sytes[.]net/note/att[.]net[.]zip                                      | xlsinvoices[.]sytes[.]net                       | 18[.]188[.]65[.]80                            | chibamobilestore@hotmail[.]com<br/>lynchbim@gmail[.]com<br/>re5ultpage@yandex[.]com                                                              |
 
 
-[Return to index](/archive)
+[Return to index](/)

@@ -42,4 +42,4 @@
 | OFF iT Panel       | icloud[.]com-us[.]ltd/admin/                                                      | 198[.]7[.]58[.]222    | n/a                                                  |
 | 16Shop (cracked)   | appleid[.]supportteam82195[.]fadefavourite[.]com/admin/login[.]php                | 209[.]87[.]149[.]212  | n/a                                                  |
 
-[Return to index](/archive)
+[Return to index](/)
