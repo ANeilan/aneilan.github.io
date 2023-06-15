@@ -52,6 +52,20 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 [Crap I Found On The Internet (2020/09/28)](/2020-09-28-crap-i-found)
 
-[Archived Posts](/archive/) 
+[Compilation of "stuff i found" gists that i posted to github](/compilation-of-gists-2020-04-24)
+
+[Crap I Found On The Internet: 2020/03/30](/crap-i-found-2020-03-30)
+
+[Crap I Found On The Internet: 2020/03/11](/crap-i-found-2020-03-11)
+
+[Crap I Found On The Internet: 2020/02/27](/crap-i-found-2020-02-27)
+
+[Crap I Found On The Internet: 2020/02/10](/crap-i-found-2020-02-10)
+
+[Crap I Found On The Internet: 2020/02/08](/crap-i-found-2020-02-08)
+
+[Crap I Found On The Internet: 2020/02/06](/crap-i-found-2020-02-06)
+
+[Crap I Found On The Internet: 2020/01/24](/crap-i-found-2020-01-24)
 
 [@comradeeevee's message](/eevee)
