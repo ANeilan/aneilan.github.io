@@ -19,6 +19,7 @@
 * Proactively scanned (via shodan) our public infrastructure for out-of-date assets and identified an unsupported host with deprecated operating systems. then subsequently initiated and assisted in the migration plan improving our security posture greatly 
 
 #### Security Analyst | Steward Health Care Systems | April 2019 - October 2019
+
 * Worked with the Security Engineering & Operations team.
 
 * Acted as a liaison between helpdesk and Security Engineering & Operations team.
