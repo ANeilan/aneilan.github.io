@@ -1,30 +1,48 @@
 # Alan Neilan
-## Security Researcher<br>508-431-7260<br>Blog: aneilan.github.io
----
+## Security Researcher | Blog: aneilan.github.io | Massachusetts, United States
+
+###### Currently employed as a Threat Analyst, my passion is security research and threat hunting which I currently do in my spare time. This can involve hunting for new phishing threats, analyzing malware, threat actor tracking and public speaking. Using data gathered during threat hunting, I then pivot and find additional threats targeting the same brand, or from the same threat actor. I am a member of multiple online forums, closed channels, and groups dedicated to security research and distributing information on evolving threats. The data I collect and distribute to impacted parties is used to quickly mitigate threats and take down attacker infrastructure.
+
 ### Experience:
-#### Helpdesk Analyst - Steward Health Care Systems<br>July 2018 - Present<br>
-Provided customer service to end users. Utilize internal documentation to resolve issues.<br>Triage calls/tickets to appropriate teams if request cannot be resolved 
-#### Security Analyst - Steward Health Care Systems<br>April 2019 - October 2019
-Worked with the Security Engineering & Operations team.<br>Acted as a liaison between helpdesk and Security Engineering & Operations team
-#### Independent Security Researcher<br>2018-Present
-Proactively monitor newly registered domains for suspicious subdomains, investigate phishing sites and notify the target companies, hosting providers, and domain registrars.<br>Collect phishing kits to analyze the exfiltration methods of said kits.<br>Maintain a blog with various interesting findings from combing through certificate data.
+#### Threat Analyst | WMC Global | January 2022 - Present
 
-### Education:
-#### Bridgewater State University: Bachelors (January 2014-May 2017, Pending)<br>Major: Communications Studies<br>Minor: Computer Science
-Assisted developers of Android application (BSU Mobile) with compatibility testing for newer versions of Android (6.0+)
+* Triaged and executed takedowns on client-branded phishing URLS to reduce consumer harm.
 
-#### Lincoln Technical Institute<br>October 2010 - August 2011<br>Diploma: Network Communications and Information Systems
-CompTIA A+: (COMP001020207396)
+* Contacting phone number providers to takedown numbers being used in phishing attacks.
 
-### Skills:
-Maltego<br>
-Vagrant<br>
-Virtualization (VirtualBox, VMWare)<br>
-OWASP Amass<br>
-Linux (Fedora-based, Debian-based)<br>
-DNS Querying<br>
+#### Helpdesk Analyst | Steward Health Care Systems | July 2018 - January 2022
 
-### Talks:
-November 14,2020 - BSides CT 2020: “Moby Dick: Stories of going after phishing sites”<br>
-November 21, 2019 - Boston Security Meetup: “Moby Dick: Stories of going after phishing attacks”<br>
-August 16, 2018 - Boston Security Meetup: “How to preserve what little privacy you have left on the internet”
+* Provided customer service to end users. Utilize internal documentation to resolve issues.
+
+* Triage calls/tickets to appropriate teams if request cannot be resolved.
+
+* Proactively scanned (via shodan) our public infrastructure for out-of-date assets and identified an unsupported host with deprecated operating systems. then subsequently initiated and assisted in the migration plan improving our security posture greatly 
+
+#### Security Analyst | Steward Health Care Systems | April 2019 - October 2019
+* Worked with the Security Engineering & Operations team.
+
+* Acted as a liaison between helpdesk and Security Engineering & Operations team.
+
+* Investigate end user access issues, blocked sites.
+
+* Manage VPN token distribution.
+
+#### Independent Security Researcher | 2016 - Present
+
+* Authoring blog posts and articles providing [analysis on collected phishing kits and IOCs](https://aneilan.github.io/)
+
+* Analyzing and sharing intel gathered on threat actors and phishing kits with other members of the CTI community.
+
+* OSS contributions and development.
+
+* Breach reporting/notification to companies exposing sensitive data or assets.
+
+* Contributing and maintaining repositories of deobfuscated phishing pages.
+
+* Submitting CFPs and public speaking around threat hunting and privacy advocacy
+    * ["Moby Dick: Stories of going after phishing attacks"](https://youtu.be/a4dTLppfLx4)
+    * ["How to preserve what little privacy you have left on the internet"](https://youtu.be/oEtiN0J4hBw)
+
+* Direct collaboration with multiple threat intelligence teams across multiple verticals, to aid in identification and takedown of malicious content.
+
+* Frequent collaboration with informal cybersecurity peer groups.
