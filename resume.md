@@ -1,7 +1,7 @@
 # Alan Neilan
 ## Security Researcher | Blog: aneilan.github.io | Massachusetts, United States
 
-###### Currently employed as a Threat Analyst, my passion is security research and threat hunting which I currently do in my spare time. This can involve hunting for new phishing threats, analyzing malware, threat actor tracking and public speaking. Using data gathered during threat hunting, I then pivot and find additional threats targeting the same brand, or from the same threat actor. I am a member of multiple online forums, closed channels, and groups dedicated to security research and distributing information on evolving threats. The data I collect and distribute to impacted parties is used to quickly mitigate threats and take down attacker infrastructure.
+##### Currently employed as a Threat Analyst, my passion is security research and threat hunting which I currently do in my spare time. This can involve hunting for new phishing threats, analyzing malware, threat actor tracking and public speaking. Using data gathered during threat hunting, I then pivot and find additional threats targeting the same brand, or from the same threat actor. I am a member of multiple online forums, closed channels, and groups dedicated to security research and distributing information on evolving threats. The data I collect and distribute to impacted parties is used to quickly mitigate threats and take down attacker infrastructure.
 
 ### Experience:
 #### Threat Analyst | WMC Global | January 2022 - Present
@@ -47,3 +47,8 @@
 * Direct collaboration with multiple threat intelligence teams across multiple verticals, to aid in identification and takedown of malicious content.
 
 * Frequent collaboration with informal cybersecurity peer groups.
+
+* Research appeared in "Safari Zone" section of "ThugCrowd" security podcast shownotes
+    * ["Thugcrowd S03E01 - February 4, 2020 - Season 3 Premiere"][https://thugcrowd.com/notes/20200204.html]
+    * ["Thugcrowd S02E14 - September 24, 2019"][https://thugcrowd.com/notes/20190924.html]
+    * ["Thugcrowd S02E04 - June 25, 2019 - Hacker History with @hexadecim8"](https://thugcrowd.com/notes/20190625.html)
