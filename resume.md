@@ -49,6 +49,6 @@
 * Frequent collaboration with informal cybersecurity peer groups.
 
 * Research appeared in "Safari Zone" section of "ThugCrowd" security podcast shownotes
-    * ["Thugcrowd S03E01 - February 4, 2020 - Season 3 Premiere"][https://thugcrowd.com/notes/20200204.html]
-    * ["Thugcrowd S02E14 - September 24, 2019"][https://thugcrowd.com/notes/20190924.html]
+    * ["Thugcrowd S03E01 - February 4, 2020 - Season 3 Premiere"](https://thugcrowd.com/notes/20200204.html]
+    * ["Thugcrowd S02E14 - September 24, 2019"](https://thugcrowd.com/notes/20190924.html]
     * ["Thugcrowd S02E04 - June 25, 2019 - Hacker History with @hexadecim8"](https://thugcrowd.com/notes/20190625.html)
