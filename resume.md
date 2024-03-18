@@ -54,6 +54,6 @@
     * ["Thugcrowd S02E04 - June 25, 2019 - Hacker History with @hexadecim8"](https://thugcrowd.com/notes/20190625.html)
 
 * Research cited in other media.
-    * ["Clubhouse Malware - Analysis of an Agent Tesla Infection Campaign"](https://www.youtube.com/watch?v=J8rlkzhxvtc)
+    * ["Clubhouse Malware - Analysis of an Agent Tesla Infection Campaign"](https://youtu.be/J8rlkzhxvtc)
     * ["The Taters' fate: how Trump supporters are lied to, radicalized, and infected with malware"](https://theoddpost.com/2021/03/13/the-taters-fate-how-trump-supporters-are-lied-to-radicalized-and-infected-with-malware/)
     * ["Layer 8 Podcast - Episode 94: Alan Neilan - The Phishing Kit Hunter"](https://podcasters.spotify.com/pod/show/layer-8-podcast/episodes/Episode-94-Alan-Neilan---The-Phishing-Kit-Hunter-e1mfv2f)
