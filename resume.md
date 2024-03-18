@@ -52,3 +52,8 @@
     * ["Thugcrowd S03E01 - February 4, 2020 - Season 3 Premiere"](https://thugcrowd.com/notes/20200204.html)
     * ["Thugcrowd S02E14 - September 24, 2019"](https://thugcrowd.com/notes/20190924.html)
     * ["Thugcrowd S02E04 - June 25, 2019 - Hacker History with @hexadecim8"](https://thugcrowd.com/notes/20190625.html)
+
+* Research cited in other media.
+    * ["Clubhouse Malware - Analysis of an Agent Tesla Infection Campaign"](https://www.youtube.com/watch?v=J8rlkzhxvtc)
+    * ["The Taters' fate: how Trump supporters are lied to, radicalized, and infected with malware"](https://theoddpost.com/2021/03/13/the-taters-fate-how-trump-supporters-are-lied-to-radicalized-and-infected-with-malware/)
+    * ["Layer 8 Podcast - Episode 94: Alan Neilan - The Phishing Kit Hunter"](https://podcasters.spotify.com/pod/show/layer-8-podcast/episodes/Episode-94-Alan-Neilan---The-Phishing-Kit-Hunter-e1mfv2f)
