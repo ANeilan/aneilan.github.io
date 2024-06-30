@@ -15,3 +15,5 @@ So, since elon musk has gone and fucked things up, here's links to other places 
 NSO (Nintendo Switch Online): SW-5809-1439-1488
 
 Discord: w00dsman#7942 (now w00dsman since discord moved away from the number thing)
+
+Signal: w00dsman.04
