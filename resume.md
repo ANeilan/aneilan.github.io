@@ -14,7 +14,7 @@
 
 * Provided customer service to end users. Utilize internal documentation to resolve issues.
 
-* Triage calls/tickets to appropriate teams if request cannot be resolved.
+* Triaged calls/tickets to appropriate teams if request cannot be resolved.
 
 * Proactively scanned (via shodan) our public infrastructure for out-of-date assets and identified an unsupported host with deprecated operating systems. then subsequently initiated and assisted in the migration plan improving our security posture greatly 
 
@@ -24,9 +24,9 @@
 
 * Acted as a liaison between helpdesk and Security Engineering & Operations team.
 
-* Investigate end user access issues, blocked sites.
+* Investigated end user access issues, blocked sites.
 
-* Manage VPN token distribution.
+* Managed VPN token distribution.
 
 #### Independent Security Researcher | 2016 - Present
 
