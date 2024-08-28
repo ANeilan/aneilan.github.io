@@ -14,14 +14,6 @@
 
 * Worked on updating documentation regarding abuse contacts.
 
-#### Helpdesk Analyst | Steward Health Care Systems | July 2018 - January 2022
-
-* Provided customer service to end users. Utilize internal documentation to resolve issues.
-
-* Triaged calls/tickets to appropriate teams if request cannot be resolved.
-
-* Proactively scanned (via shodan) our public infrastructure for out-of-date assets and identified an unsupported host with deprecated operating systems. then subsequently initiated and assisted in the migration plan improving our security posture greatly 
-
 #### Security Analyst | Steward Health Care Systems | April 2019 - October 2019
 
 * Worked with the Security Engineering & Operations team.
@@ -31,6 +23,14 @@
 * Investigated end user access issues, blocked sites.
 
 * Managed VPN token distribution.
+
+#### Helpdesk Analyst | Steward Health Care Systems | July 2018 - January 2022
+
+* Provided customer service to end users. Utilize internal documentation to resolve issues.
+
+* Triaged calls/tickets to appropriate teams if request cannot be resolved.
+
+* Proactively scanned (via shodan) our public infrastructure for out-of-date assets and identified an unsupported host with deprecated operating systems. then subsequently initiated and assisted in the migration plan improving our security posture greatly 
 
 #### Independent Security Researcher | 2016 - Present
 
