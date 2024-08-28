@@ -8,7 +8,11 @@
 
 * Triaged and executed takedowns on client-branded phishing URLS to reduce consumer harm.
 
-* Contacting phone number providers to takedown numbers being used in phishing attacks.
+* Contacted phone number providers to take down numbers being used in phishing attacks.
+
+* Worked on classifying threat data for url classification system.
+
+* Worked on updating documentation regarding abuse contacts.
 
 #### Helpdesk Analyst | Steward Health Care Systems | July 2018 - January 2022
 
