@@ -2,7 +2,9 @@
 
 ## Introduction
 
-A few years back, I came across an article that detailed how to go about getting [Xfinity Stream to work on Linux](https://web.archive.org/web/20240521154708/https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html), with instructions on how to do it on Debian-based distributions. Earlier this year, I switched my operating system over to Fedora (currently running Fedora Rawhide), and as a result, I needed a way to accomplish this on a Fedora-based system.
+<!--- apparently the site came back
+A few years back, I came across an article that detailed how to go about getting [Xfinity Stream to work on Linux](https://web.archive.org/web/20240521154708/https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html), with instructions on how to do it on Debian-based distributions. Earlier this year, I switched my operating system over to Fedora (currently running Fedora Rawhide), and as a result, I needed a way to accomplish this on a Fedora-based system. -->
+A few years back, I came across an article that detailed how to go about getting [Xfinity Stream to work on Linux](https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html), with instructions on how to do it on Debian-based distributions. Earlier this year, I switched my operating system over to Fedora (currently running Fedora Rawhide), and as a result, I needed a way to accomplish this on a Fedora-based system.
 
 ## What you'll need
 
