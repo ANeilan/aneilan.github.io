@@ -72,4 +72,4 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 [Crap I Found On The Internet: 2020/01/24](/crap-i-found-2020-01-24)
 
-[@comradeeevee's message](/eevee)
+<!-- [@comradeeevee's message](/eevee) -->
