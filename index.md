@@ -14,6 +14,8 @@ This blog is going to mostly be my ramblings and what i decided on using to sort
 
 ## Posts
 
+[Final blog post for now (2025/09/28)](/2025-09-28-final-post-for-now.md)
+
 [Crap I Found On The Internet (2025/03/22)](/2025-03-22-crap-i-found.md)
 
 [How to get Xfinity Stream to run on Linux (2024/10/28)](/2024-10-28-xfinity-stream-linux.md)
