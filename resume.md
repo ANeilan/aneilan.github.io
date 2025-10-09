@@ -1,59 +1,51 @@
-# Commenting this out for now, will change later
-<!--- # Alan Neilan
+# Alan Neilan
 ## Security Researcher | Blog: aneilan.github.io | Linkedin: https://www.linkedin.com/in/alan-neilan-4a271a158/ | Massachusetts, United States
 
-##### Previously employed as a Threat Analyst, my passion is security research and threat hunting which I currently do in my spare time. This can involve hunting for new phishing threats, analyzing malware, threat actor tracking and public speaking. Using data gathered during threat hunting, I then pivot and find additional threats targeting the same brand, or from the same threat actor. I am a member of multiple online forums, closed channels, and groups dedicated to security research and distributing information on evolving threats. The data I collect and distribute to impacted parties is used to quickly mitigate threats and take down attacker infrastructure.
 
-### Experience:
-#### Threat Analyst | WMC Global | January 2022 - October 2024
+## Summary
+Passionate and driven Security Researcher with hands-on experience in threat intelligence, phishing detection, malware analysis, and attacker infrastructure takedown. Strong track record in proactive hunting, community-driven threat mitigation, and incident analysis. Known for deep independent research, public advocacy, and actionable intelligence sharing. Adept at bridging technical execution with human-centric security insights.
 
-* Triaged and executed takedowns on client-branded phishing URLS to reduce consumer harm.
+## Experience
+### Threat Analyst
+#### WMC Global | Jan 2022 - Oct 2024
+* Executed high-volume phishing site and malicious phone number takedowns for global brands, directly reducing consumer harm. Including targets such as T-Mobile, Bank of America, and Citibank.
+* Maintained and enriched a threat classification system, resulting in improved URL detection accuracy.
+    * Identified and removed bogus and unroutable phishing sites.
+    * Removed false positives for legitimate link shorteners that were being incorrectly tagged as malicious.
+* Maintained and improved internal abuse contact repositories to streamline escalation and remediation workflows. Utilized social media, personal contacts, and other means to locate correct points of contact for take down notices.
+* Collaborated with external providers to dismantle attacker infrastructure at scale. This included working directly with Cloudflare, Hostinger, and Namecheap.
+* Identified phishing kits and submitted them to internal threat intelligence system.
 
-* Contacted phone number providers to take down numbers being used in phishing attacks.
+### Helpdesk Analyst / Security Analyst
+#### Steward Health Care Systems | Jul 2018 - Jan 2022
+* Delivered first-tier support for a large healthcare workforce, resolving access and connectivity issues.
+* Served as key liaison between Helpdesk and Security Engineering teams to fast-track security-focused escalations.
+* Discovered and initiated a migration plan for legacy systems with deprecated software, significantly hardening internal security posture.
+* Triaged VPN, SSO, and content filtering issues; managed token deployment and investigated access anomalies.
 
-* Worked on classifying threat data for url classification system.
+### Security Researcher
+#### Independent | 2016 - Present
+* Discovered, analyzed, and deobfuscated phishing kits, with artifacts shared across public threat repositories and CTI channels.
+* Conducted targeted infrastructure mapping and collaborated with CTI teams on coordinated takedown campaigns.
+* Authored technical blogs on phishing kit behaviors, infrastructure trends, and privacy guidance.
+* Reported multiple real-world data exposures and vulnerable assets to affected organizations.
+* Recognized with the President’s Volunteer Service Award (2023) for contributions to public cybersecurity.
 
-* Worked on updating documentation regarding abuse contacts.
+## Education
+### Bridgewater State University (Spring '14 - Spring '17)
+#### Major: Communications | Minor: Computer Science
 
-#### Helpdesk and Security Analyst | Steward Health Care Systems | July 2018 - January 2022
+### Lincoln Technical Institute (Oct 2010 - Sep 2011)
+#### Diploma Program: Computer Networking & Security
 
-* Provided customer service to end users and utilized internal documentation to resolve issues.
+## Skills
+* OS: Linux, Windows
+* Threat Tools: Splunk (active use), Zendesk (active use), OSINT
+* Infra & Dev: Docker, Containers, VMware, Vagrant, Packer
+* Packaging: RPM builds with Mock
+* Soft Skills: Public Speaking, Cross-team Collaboration, Knowledge Transfer
 
-* Triaged calls/tickets to appropriate teams if requests could not be resolved.
-
-* Proactively scanned (via Shodan) public infrastructure for out-of-date assets, identifying an unsupported host with deprecated operating systems, and subsequently initiated and assisted in the migration plan, greatly improving security posture.
-
-* Acted as a liaison between Helpdesk and the Security Engineering & Operations team.
-
-* Investigated end user access issues, managed VPN token distribution, and blocked inappropriate sites.
-
-#### Independent Security Researcher | 2016 - Present
-
-* Authoring blog posts and articles providing [analysis on collected phishing kits and IOCs](https://aneilan.github.io/)
-
-* Analyzing and sharing intel gathered on threat actors and phishing kits with other members of the CTI community.
-
-* OSS contributions and development.
-
-* Breach reporting/notification to companies exposing sensitive data or assets.
-
-* Contributing and maintaining repositories of deobfuscated phishing pages.
-
-* Submitting CFPs and public speaking around threat hunting and privacy advocacy
-    * ["Moby Dick: Stories of going after phishing attacks"](https://youtu.be/a4dTLppfLx4)
-    * ["How to preserve what little privacy you have left on the internet"](https://youtu.be/oEtiN0J4hBw)
-
-* Direct collaboration with multiple threat intelligence teams across multiple verticals, to aid in identification and takedown of malicious content.
-
-* Frequent collaboration with informal cybersecurity peer groups.
-
-* Research appeared in "Safari Zone" section of "ThugCrowd" security podcast shownotes
-    * ["Thugcrowd S03E01 - February 4, 2020 - Season 3 Premiere"](https://thugcrowd.com/notes/20200204.html)
-    * ["Thugcrowd S02E14 - September 24, 2019"](https://thugcrowd.com/notes/20190924.html)
-    * ["Thugcrowd S02E04 - June 25, 2019 - Hacker History with @hexadecim8"](https://thugcrowd.com/notes/20190625.html)
-
-* Research cited in other media.
-    * ["Clubhouse Malware - Analysis of an Agent Tesla Infection Campaign"](https://youtu.be/J8rlkzhxvtc)
-    * ["The Taters' fate: how Trump supporters are lied to, radicalized, and infected with malware"](https://theoddpost.com/2021/03/13/the-taters-fate-how-trump-supporters-are-lied-to-radicalized-and-infected-with-malware/)
-    * ["Layer 8 Podcast - Episode 94: Alan Neilan - The Phishing Kit Hunter"](https://podcasters.spotify.com/pod/show/layer-8-podcast/episodes/Episode-94-Alan-Neilan---The-Phishing-Kit-Hunter-e1mfv2f)
---->
+## Publications & Speaking
+* Podcast - Layer 8 Podcast, Ep. 94: "The Phishing Kit Hunter"
+* Talks - "Moby Dick: Stories of Going After Phishing Attacks"
+* Research cited by multiple cybersecurity vendors, blogs, and podcasts.
