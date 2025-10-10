@@ -1,6 +1,8 @@
 # Alan Neilan
-## Security Researcher | Blog: aneilan.github.io | Linkedin: https://www.linkedin.com/in/alan-neilan-4a271a158/ | Massachusetts, United States
-
+Security Researcher <br/>
+Blog: aneilan.github.io <br/>
+Linkedin: https://www.linkedin.com/in/alan-neilan-4a271a158/ <br/>
+Massachusetts, United States
 
 ## Summary
 Passionate and driven Security Researcher with hands-on experience in threat intelligence, phishing detection, malware analysis, and attacker infrastructure takedown. Strong track record in proactive hunting, community-driven threat mitigation, and incident analysis. Known for deep independent research, public advocacy, and actionable intelligence sharing. Adept at bridging technical execution with human-centric security insights.
